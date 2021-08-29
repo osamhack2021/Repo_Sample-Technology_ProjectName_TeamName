@@ -1,4 +1,4 @@
-### 본 페이지는 샘플입니다. 아래의 ***샘플 양식에 포함되어 있는 항목은 필수 기재사항***입니다.
+### 본 페이지는 샘플입니다. 아래의 *[샘플 양식에 포함되어 있는 항목은 필수 기재사항]*   입니다.
 해당 내용은 모두 예시이며 설명이 부족하거나 추가하고싶은 부분이 있으면 개발자님이 추가해서 작성하셔도 무관합니다. (동영상, 이미지, 텍스트 적용 전부 자유)
 
 
@@ -52,3 +52,4 @@ $ yarn start or npm run start
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
+This project is licensed under the terms of the MIT license.
